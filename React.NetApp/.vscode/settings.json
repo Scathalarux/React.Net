@@ -1,0 +1,6 @@
+{
+    "livePreview.defaultPreviewPath": "/react.netapp.client/index.html",
+    "chat.sendElementsToChat.attachCSS": false,
+    "chat.sendElementsToChat.attachImages": false,
+    "chat.sendElementsToChat.enabled": false
+}

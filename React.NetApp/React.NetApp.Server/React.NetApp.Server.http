@@ -1,0 +1,6 @@
+@React.NetApp.Server_HostAddress = http://localhost:5082
+
+GET {{React.NetApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
