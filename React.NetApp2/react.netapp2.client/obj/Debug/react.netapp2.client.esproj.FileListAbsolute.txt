@@ -1,0 +1,2 @@
+C:\Users\laracv\Documents\Cursos\React.Net\React.NetApp2\react.netapp2.client\obj\Debug\react.netapp2.client.esproj.CoreCompileInputs.cache
+C:\Users\laracv\Documents\Cursos\React.Net\React.NetApp2.1\react.netapp2.client\obj\Debug\react.netapp2.client.esproj.CoreCompileInputs.cache
