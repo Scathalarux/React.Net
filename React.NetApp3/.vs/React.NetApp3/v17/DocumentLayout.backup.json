@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|c:\\users\\laracv\\documents\\cursos\\react.net\\react.netapp3\\react.netapp3.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|solutionrelative:react.netapp3.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|c:\\users\\laracv\\documents\\cursos\\react.net\\react.netapp3\\react.netapp3.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|solutionrelative:react.netapp3.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|c:\\users\\laracv\\documents\\cursos\\react.net\\react.netapp3\\react.netapp3.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|solutionrelative:react.netapp3.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|c:\\users\\laracv\\documents\\cursos\\react.net\\react.netapp3\\react.netapp3.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B5509919-F00F-DF9D-D563-6E285B79916C}|react.netapp3.client\\react.netapp3.client.esproj|solutionrelative:react.netapp3.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\index.html",
+              "RelativeDocumentMoniker": "react.netapp3.client\\index.html",
+              "ToolTip": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\index.html",
+              "RelativeToolTip": "react.netapp3.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-09T09:28:12.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\src\\pages\\Register.tsx",
+              "RelativeDocumentMoniker": "react.netapp3.client\\src\\pages\\Register.tsx",
+              "ToolTip": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\src\\pages\\Register.tsx",
+              "RelativeToolTip": "react.netapp3.client\\src\\pages\\Register.tsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T09:19:06.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "react.netapp3.client\\src\\pages\\Login.tsx",
+              "ToolTip": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "react.netapp3.client\\src\\pages\\Login.tsx",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T09:19:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\src\\pages\\Home.tsx",
+              "RelativeDocumentMoniker": "react.netapp3.client\\src\\pages\\Home.tsx",
+              "ToolTip": "C:\\Users\\laracv\\Documents\\Cursos\\React.Net\\React.NetApp3\\react.netapp3.client\\src\\pages\\Home.tsx",
+              "RelativeToolTip": "react.netapp3.client\\src\\pages\\Home.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-09T09:08:02.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

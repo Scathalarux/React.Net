@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import { ModalContacto } from "./components/ModalContacto";
 import { TablaContactos } from "./components/TablaContactos";
@@ -45,10 +45,12 @@ function App() {
         PageSize: metadataParsed.PageSize,
       });
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [contactos]);
 
   useEffect(() => {
     getContactos(filtros);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleCloseAlert = () => {
